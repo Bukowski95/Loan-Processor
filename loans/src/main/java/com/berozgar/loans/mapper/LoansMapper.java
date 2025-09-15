@@ -1,6 +1,7 @@
 package com.berozgar.loans.mapper;
 
 import com.berozgar.loans.entity.Loans;
+import com.berozgar.loans.dto.LoansDto;
 
 public class LoansMapper {
 
