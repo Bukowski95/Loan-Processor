@@ -1,0 +1,32 @@
+# Spring Boot
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Others
+.DS_Store
+*.class
+*.jar
+*.war
+*.ear
